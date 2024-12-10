@@ -8,8 +8,4 @@ body {
 
 #portrait {
     height: 100%;
-    filter: grayscale(50) blur(5px);
-}
-#portrait:hover {
-    filter: none;
 }
