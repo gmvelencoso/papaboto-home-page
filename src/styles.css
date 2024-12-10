@@ -1,0 +1,15 @@
+body {
+    background-color: #164567;
+}
+
+#main {
+    text-align: center;
+}
+
+#portrait {
+    height: 100%;
+    filter: grayscale(50) blur(5px);
+}
+#portrait:hover {
+    filter: none;
+}
